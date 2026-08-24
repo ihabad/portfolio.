@@ -1,0 +1,7 @@
+Whole-portfolio dash cleanup completed.
+
+Checked all text-based files recursively, including HTML, CSS, JavaScript, Markdown, and TXT files.
+Removed/replaced em dashes, en dashes, figure dashes, horizontal bars, minus-sign dash variants, and HTML dash entities.
+
+Files modified during this pass: None (already clean)
+Remaining long/special dash matches: 0
