@@ -1,3 +1,0 @@
-UPDATE: Long em dashes and en dashes were removed from the portfolio copy.
-They were replaced with commas, standard punctuation, or rewritten wording.
-Normal hyphens in words such as entry-level, high-risk, and account-takeover were kept.
