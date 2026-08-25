@@ -1,9 +1,0 @@
-Upload index.html, styles.css, script.js, and .nojekyll to the ROOT of your GitHub repository.
-Replace the existing files when GitHub asks.
-
-IMPORTANT:
-Keep exactly one resume PDF in the repository root named:
-Ihab_Abou_Diab_Resume.pdf
-
-Delete the duplicate file named Ihab_Abou_Diab_Resume..pdf if you no longer need it.
-The Resume links now open ./Ihab_Abou_Diab_Resume.pdf in a new browser tab instead of using the download attribute.
